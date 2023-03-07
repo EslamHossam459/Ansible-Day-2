@@ -1,0 +1,11 @@
+galaxy_info:
+  role_name: sonarqube
+
+  license: license (Ubuntu License)
+
+  min_ansible_version: 2.1
+
+  platforms:
+   - name: ubuntu server
+     versions: 22.04
+
